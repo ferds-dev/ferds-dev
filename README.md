@@ -1,7 +1,7 @@
 ### Olá! Sou o João Fernandes, mas pode me chamar de Ferds 👋
 
 - 🌱 Estou estudando front-end
-- ⚡ 100 days of code: day 3
+- ⚡ 100 days of code: day 4
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferds-dev&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferds-dev&layout=compact&theme=midnight-purple&)](https://github.com/anuraghazra/github-readme-stats)
